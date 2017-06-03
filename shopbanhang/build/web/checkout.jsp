@@ -71,7 +71,7 @@
                 url = request.getScheme() + "://" + request.getServerName() + ":" + request.getServerPort() + request.getRequestURI() + "?" + request.getQueryString();
             }
 
-            String ShipName_err = "", ShipMobile_err = "", ShipAddress_err = "", ShipEmail_err = "",
+            String ShipName_err = "", ShipMobile_err = "", ShipAddress_err = "", ShipEmail_err = "",Quantity_err="",
                     ShipName = "", ShipMobile = "", ShipAddress = "", ShipEmail = "";
             if (request.getAttribute("ShipName_err") != null) {
                 ShipName_err = (String) request.getAttribute("ShipName_err");
@@ -96,6 +96,9 @@
             }
             if (request.getAttribute("ShipEmail") != null) {
                 ShipEmail = (String) request.getAttribute("ShipEmail");
+            }
+            if (request.getAttribute("Quantity_err") != null) {
+                Quantity_err = (String) request.getAttribute("Quantity_err");
             }
 
 
@@ -179,6 +182,7 @@
                 </div>
 
                 <div class="check-out1">
+                    <span style="color: red;"><%=Quantity_err%></span>
                     <h3 class="bg-info" style="margin:  2% 0;">Thông tin thanh toán</h3>
                     <form action="CheckOutServlet" method="POST" >
                         <!--                    <input type="hidden" value="insert" name="command">-->

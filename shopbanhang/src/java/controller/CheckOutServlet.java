@@ -111,7 +111,7 @@ public class CheckOutServlet extends HttpServlet {
         for (Map.Entry<String, Item> list : cart.getCartItems().entrySet()) {
             ProductWarehouse pw = productWarehouseDAO.getProductWarehouseByCode(list.getValue().getProduct().getCode());
             if (pw.getStockAvailable() < list.getValue().getQuantity()) {
-                Quantity_err += "Số lượng sản phẩm " + list.getValue().getProduct().getName() + " tối đa có thể mua là: " + list.getValue().getQuantity() + "<br>";
+                Quantity_err += "Số lượng sản phẩm " + list.getValue().getProduct().getName() + " tối đa có thể mua là: " + pw.getStockAvailable() + "<br>";
             }
         }
         if (Quantity_err.length() > 0) {

@@ -433,7 +433,7 @@
                                                                             <div class="form-group">
                                                                                 <label class="col-sm-3 control-label">Số điện thoại<span class="text-danger"> *</span></label>
                                                                                 <div class="col-sm-9">
-                                                                                    <input  style="max-width: 95%" onkeypress='return event.charCode >= 48 && event.charCode <= 57' required min="0" type="number" value="<%=Phone.length() > 0 ? Phone : ""%>" name="Phone" class="form-control">
+                                                                                    <input  style="max-width: 95%" onkeypress='return event.charCode >= 48 && event.charCode <= 57' required min="0" type="text" value="<%=Phone.length() > 0 ? Phone : ""%>" name="Phone" class="form-control">
                                                                                     <div class="clearfix"></div>
                                                                                     <span class="text-danger" id="Phone_err"><%=Phone_err%></span>
                                                                                 </div>

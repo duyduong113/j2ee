@@ -124,7 +124,8 @@
                                     data: "ID=" + ID,
                                     success: function (data) {
                                         $('input[name=ID]').val(data.banner.ID);
-                                        //$('input[name=ProductCode]').val(data.ProductCode.Name);
+                                        //$('input[name=ProductCode]').val(data.banner.ProductCode);
+                                         $('select[name=ProductCode] option[value=' + data.banner.ProductCode + ']').attr('selected', 'selected');
                                         $('input[name=Advertisement_Name]').val(data.banner.Advertisement_Name);
                                         $('input[name=StartDate]').val(data.banner.StartDate);
                                         $('input[name=EndDate]').val(data.banner.EndDate);

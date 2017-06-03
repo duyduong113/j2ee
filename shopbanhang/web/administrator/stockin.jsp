@@ -195,7 +195,7 @@
                     },
                     success: function (data) {
                         window.location.href = data.toString();
-//                        windown.window.location.reload();
+                        windown.window.location.reload();
                         $('#table-detail').TableSorter();
                     }
                 });

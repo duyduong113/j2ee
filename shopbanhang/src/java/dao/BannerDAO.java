@@ -120,8 +120,8 @@ public class BannerDAO {
             ps.setString(1, c.getProductCode());
             ps.setString(2, c.getAdvertisement_Name());
             ps.setString(3, c.getImage());
-            ps.setDate(4, (java.sql.Date) c.getStartDate());
-            ps.setDate(5, (java.sql.Date) c.getEndDate());
+            ps.setDate(4, new java.sql.Date(c.getStartDate().getTime()));
+            ps.setDate(5, new java.sql.Date(c.getEndDate().getTime()));
             ps.setBoolean(6, c.isStatus());
             ps.setTimestamp(7, c.getModifiedDate());
             ps.setString(8, c.getModifiedBy());

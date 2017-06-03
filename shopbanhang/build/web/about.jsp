@@ -26,10 +26,10 @@
                     </div>-->
 
                     <h3 class="text-center">HỆ THỐNG ĐIỆN THOẠI DI DỘNG KINGPHONE</h3>
-                    <p>Được thành lập từ năm 2002, Hệ thống siêu thị TechOne là một trong những nhà bán lẻ điện thoại di động hàng đầu trong lĩnh vực di động cung cấp thiết bị đầu cuối. Hệ thống siêu thị di động TechOne chính thức trở thành nhà phân phối và đối tác chiến lược của những thương hiệu hàng đầu như: Apple, Samsung, Nokia, Sony, Oppo, HTC, Blackberry, Lenovo & Phụ kiện chính hãng … </p>
+                    <p>Được thành lập từ năm 2002, Hệ thống siêu thị KingPhone là một trong những nhà bán lẻ điện thoại di động hàng đầu trong lĩnh vực di động cung cấp thiết bị đầu cuối. Hệ thống siêu thị di động TechOne chính thức trở thành nhà phân phối và đối tác chiến lược của những thương hiệu hàng đầu như: Apple, Samsung, Nokia, Sony, Oppo, HTC, Blackberry, Lenovo & Phụ kiện chính hãng … </p>
                     <p>Hơn 15 năm xây dựng và phát triển, với hệ thống 12 cửa hàng trên toàn Hà Nội và TP.HCM, TechOne đã và đang đem lại cho khách hàng sự trải nghiệm, hài lòng về sản phẩm và dịch vụ.</p>				
-                    <P>Mọi nỗ lực của TechOne đều mong muốn mang đến sự hài lòng của khách hàng và được đông đảo khách hàng ghi nhận. TechOne đã được nhiều tổ chức trao tặng các giải thưởng uy tín như: lọt vào top 500 website tại việt nam, chứng nhận danh hiệu sản phẩm dịch vụ hàng đầu việt nam... Hệ thống siêu thị TechOne mong muốn sự đóng góp ý kiện của khách hàng sẽ giúp TechOne ngày một phát triển để từ đó củng cố thêm lòng tin của khách hàng với TechOne.</P>
-                    <p>Tầm nhìn 2022, TechOne sẽ là một trong những công ty hàng đầu trong lĩnh vực công nghệ. Đem đến cho khách hàng những trải nghiệm tuyệt vời về sản phẩm cũng như dịch vụ trước và sau bán hàng.</p>
+                    <P>Mọi nỗ lực của KingPhone đều mong muốn mang đến sự hài lòng của khách hàng và được đông đảo khách hàng ghi nhận. TechOne đã được nhiều tổ chức trao tặng các giải thưởng uy tín như: lọt vào top 500 website tại việt nam, chứng nhận danh hiệu sản phẩm dịch vụ hàng đầu việt nam... Hệ thống siêu thị KingPhone mong muốn sự đóng góp ý kiện của khách hàng sẽ giúp TechOne ngày một phát triển để từ đó củng cố thêm lòng tin của khách hàng với TechOne.</P>
+                    <p>Tầm nhìn 2022, KingPhone sẽ là một trong những công ty hàng đầu trong lĩnh vực công nghệ. Đem đến cho khách hàng những trải nghiệm tuyệt vời về sản phẩm cũng như dịch vụ trước và sau bán hàng.</p>
                    
                     <ul class="social ">
                         

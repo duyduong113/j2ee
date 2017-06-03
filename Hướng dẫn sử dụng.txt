@@ -1,0 +1,13 @@
+﻿Đồ án môn Chuyên đề J2EE -  SE325.H21
+Nhóm thực hiện:		Nhóm 14
+			Đào Duy Dương - 12520091
+			Hoàng Văn Nam - 12520271
+			Đặng Thế Hoàng - 13520302
+********************************************************************************
+
+b1. Chạy file OnlineShop.sql trong thư mục database bằng MSSQL Server
+b2. Chạy ứng dụng trên Netbean
+	Account đăng nhập phần quản trị:		duyduong
+	Password đăng nhập phần quản trị:		1
+b3. link truy cập phần quản trị:	thêm đuôi 	/administrator 	vào url.
+
